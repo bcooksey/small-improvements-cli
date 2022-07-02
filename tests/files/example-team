@@ -1,0 +1,27 @@
+{
+    "manager": {
+        "firstName": "Alex",
+        "id": "4PRgWtMqDtO7FgEN35jtKL",
+        "name": "Alex Apricot",
+        "relationship": "manager"
+    },
+    "me": {
+        "id": "2LThXtNqTuO7EgEN35jwWA",
+        "isManager": true
+    },
+    "team": {
+        "Alice Appleton": {
+            "firstName": "Alice",
+            "id": "SsBCllZGRQ2wwxeosRvYfA",
+            "name": "Alice Appleton",
+            "relationship": "report"
+        },
+        "Robert Rogers": {
+            "firstName": "Robert",
+            "id": "i8naB-eiS4WsjqozAL5j7w",
+            "name": "Robert Rogers",
+            "nickname": "Bob",
+            "relationship": "report"
+        }
+    }
+}

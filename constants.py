@@ -1,0 +1,4 @@
+DATE_FORMAT = '%Y-%m-%d'
+DEFAULT_SUBDOMAIN = 'www'
+BASE_URL_TEMPLATE = 'https://{}.small-improvements.com'
+DEFAULT_BASE_URL = BASE_URL_TEMPLATE.format(DEFAULT_SUBDOMAIN)
